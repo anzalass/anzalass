@@ -21,7 +21,7 @@ and thorough testing.
 
 ### Languages and Tools:
 
-[<img align="left" alt="Golang" width="30px" src="https://academy.alterra.id/blog/wp-content/uploads/2021/07/Logo-Golang.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Golang" width="30px" height="30px" src="https://academy.alterra.id/blog/wp-content/uploads/2021/07/Logo-Golang.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Javascript" width="30px" src="https://w7.pngwing.com/pngs/867/89/png-transparent-javascript-js-scripting-language-web-applications-frontend-backend-3d-icon.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
 
