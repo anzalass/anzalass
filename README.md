@@ -26,7 +26,7 @@ and thorough testing.
 [<img align="left" alt="Node JS" width="70px" height="35px" src="https://anzalas.vercel.app/nodejs.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="MySQL" width="30px" src="https://anzalas.vercel.app/next.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="MySQL" width="30px" src="https://anzalas.vercel.app/react.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="MySQL" width="60px" height="30px" src="https://anzalas.vercel.app/mysql.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="MySQL" width="70px" height="40px" src="https://anzalas.vercel.app/mysql.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="MySQL" width="70px" height="35px" src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="MySQL" width="30px" src="https://anzalas.vercel.app/postgresql.svg" style="padding-right:10px;" />][webdev]
 
