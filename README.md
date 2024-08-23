@@ -7,8 +7,7 @@
 
 ## Education:
 #### [Universitas Raharja](https://www.raharja.ac.id) | Bachelor of Informatic Engineering | Tangerang `2020-2024`
-##### Thesis 
-- Model Sistem Payment Gateway Dan Customer Service Berbasis Artificial Intelligence Pada PT Media Grasi Internet
+- *Thesis* Model Sistem Payment Gateway Dan Customer Service Berbasis Artificial Intelligence Pada PT Media Grasi Internet
 
 ## Education Career:
 #### [Alterra Academy](https://academy.alterra.id/) | Backend Developer |  `August'2023 - Januari 2024`
