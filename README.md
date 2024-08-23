@@ -1,4 +1,4 @@
-# Hi there, I'm Muhamad Gempar Anzalas - [Anzalas](https://www.linkedin.com/in/muhamadgemparanzalas/) 👋
+# Hi there, I'm Muhamad Gempar Anzalas  👋
 ## About me:
 - 🔭 I’m currently Enthusiast as Software Engineer
 - 🌱 I’m currently Open To New Oppurtunity
