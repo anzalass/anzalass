@@ -6,10 +6,10 @@
 - 📫 How to reach me: anzalas.muhammad@gmail.com
 
 ## Education:
-#### 1. [Universitas Raharja](https://www.raharja.ac.id) | Bachelor of Informatic Engineering | Tangerang `2020-2024`
+#### [Universitas Raharja](https://www.raharja.ac.id) | Bachelor of Informatic Engineering | Tangerang `2020-2024`
 
 ## Education Career:
-#### 1. [Alterra Academy](https://academy.alterra.id/) | Backend Developer |  `August'2023 - Januari 2024`
+#### [Alterra Academy](https://academy.alterra.id/) | Backend Developer |  `August'2023 - Januari 2024`
 - Participated in an intensive bootcamp using Go Programming Language, Echo Framework, and MySQL. Completed individual projects as well as collaborative projects with the team.
 - Individual Project: Developing an API Server for a Lost Item Search Application (Find and Seek). Tasks included designing and implementing RESTful endpoints, managing databases, and 
 ensuring API security and performance.
@@ -22,7 +22,7 @@ and thorough testing.
 ### Languages and Tools:
 
 [<img align="left" alt="Golang" width="70px" height="30px" src="https://openupthecloud.com/wp-content/uploads/2020/01/Golang.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Javascript" width="30px" src="https://w7.pngwing.com/pngs/867/89/png-transparent-javascript-js-scripting-language-web-applications-frontend-backend-3d-icon.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Javascript" width="30px" src="https://anzalas.vercel.app/javascript.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Node JS" width="30px" src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text-thumbnail.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="MySQL" width="30px" src="https://anzalas.vercel.app/mysql.svg" style="padding-right:10px;" />][webdev]
 
