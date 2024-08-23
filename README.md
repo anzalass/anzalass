@@ -6,16 +6,16 @@
 - 📫 How to reach me: anzalas.muhammad@gmail.com
 
 ## Education:
-#### 1. [Universitas Raharja](https://www.raharja.ac.id) | Bachelor of Informatic Engineering | Yogyakarta `2020-2024`
+#### 1. [Universitas Raharja](https://www.raharja.ac.id) | Bachelor of Informatic Engineering | Tangerang `2020-2024`
 
 ## Education Career:
-#### 1. [Alterra Academy](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   • Participated in an intensive bootcamp using Go Programming Language, Echo Framework, and MySQL. Completed individual projects as well as collaborative projects with the team.
-   • Individual Project: Developing an API Server for a Lost Item Search Application (Find and Seek). Tasks included designing and implementing RESTful endpoints, managing databases, and 
-     ensuring API security and performance.
-   • Team Project: Developing an eco-friendly ecommerce application as a final project. Played a role in the backend developer division, focusing on completing voucher features,     
-     authentication, notifications and implementing artificial intelligence using Open Ai. This project involved intensive collaboration with the team for frontend-backend integration 
-     and thorough testing.
+#### 1. [Alterra Academy](https://academy.alterra.id/) | Backend Developer |  `August'2023 - Januari 2024`
+- Participated in an intensive bootcamp using Go Programming Language, Echo Framework, and MySQL. Completed individual projects as well as collaborative projects with the team.
+- Individual Project: Developing an API Server for a Lost Item Search Application (Find and Seek). Tasks included designing and implementing RESTful endpoints, managing databases, and 
+ensuring API security and performance.
+- Team Project: Developing an eco-friendly ecommerce application as a final project. Played a role in the backend developer division, focusing on completing voucher features,     
+authentication, notifications and implementing artificial intelligence using Open Ai. This project involved intensive collaboration with the team for frontend-backend integration 
+and thorough testing.
 
 ---
 
